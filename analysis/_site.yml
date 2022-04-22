@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fab fa-github
     text: Source code
-    href: https://github.com/Cviceni_rep/Cviceni_reprodukovatelnost
+    href: https://github.com/zavackri/Cviceni_reprodukovatelnost
 output:
   workflowr::wflow_html:
     toc: yes
